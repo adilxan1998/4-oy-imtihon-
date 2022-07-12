@@ -26,6 +26,7 @@ let search = "python";
 let page = "1"
 
 const renderBooks = function(books, htmlElement) {
+  elBookList.innerHTML = null
   for(let book of books.items){
     const html = `
       <div class="card" style="width: 18rem;">

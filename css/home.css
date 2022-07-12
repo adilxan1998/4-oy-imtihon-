@@ -1,0 +1,191 @@
+.site_header {
+  width: 1194px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.home_form {
+  width: 670px;
+  display: flex;
+  align-items: center;
+  background: #F8FAFD;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+  padding-left: 16px;
+}
+
+.form_input {
+  width: 650px;
+  margin-left: 16px;
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+
+.box {
+  width: 137px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  padding: 10px 23px; 
+  border: none;
+  background: #0D75FF;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.main {
+  width: 1194px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main_title {
+  margin: 0;
+  padding: 0;
+  margin-top: 5px;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 17px;
+  margin-left: 300px;
+
+  color: #222531;
+}
+
+.line {
+  margin-bottom: 0;
+}
+
+.main-order {
+  width: 165px;
+  height: 34px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #A6B0C3;
+  border-radius: 4px;
+}
+
+.order_btn {
+  border: none;
+  background-color: transparent;
+  color: #fff;
+}
+
+.list {
+  width: 1194px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.list_title {
+  font-weight: 400;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 28px;
+  color: #000000;
+}
+
+.list_text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 155.6%;
+  color: #000000;
+}
+
+.col-2 {
+  margin-top: 25px;
+}
+
+.col-10 {
+background: rgba(13, 117, 255, 0.05);
+}
+
+.book_list {
+  justify-content: space-between;
+}
+
+.book_list {
+  justify-content: space-around;
+}
+
+.card {
+  width: 282px;
+  margin-top: 40px;
+}
+
+.card-img-top {
+  width: 201px;
+  height: 202px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 37px;
+  margin-top: 31px;
+}
+
+.card-box {
+  margin-left:  20px;
+}
+
+.card-text {
+  margin: 0;
+  padding: 0;
+}
+
+.card-body {
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.bookmark-btn {
+  margin-left: 13px;
+  font-weight: bold;
+  padding: 10px 26px;
+  border: none;
+  background: #FFD80D;
+  border-radius: 4px;
+}
+
+.more-btn {
+  font-weight: bold;
+  padding: 10px 28px;
+  background: rgba(13, 117, 255, 0.05);
+  border-radius: 4px;
+  color: #0D75FF;
+  border: none;
+}
+
+.link {
+  width: 265px;
+  height: 37px;
+  margin-left: 14px;
+  margin-bottom: 13px;
+  margin-top: 5px;
+  background: #75828A;
+  border-radius: 4px;
+}
+
+.pages-number {
+  width: 500px;
+  display: flex;
+  overflow-x: scroll;
+}
+
+.pages-button {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  padding-left: 175px;
+}
